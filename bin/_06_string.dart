@@ -1,6 +1,8 @@
 void main() {
   String singleQuote = 'Single Quote';
   String doubleQuote = "Double Quote";
+  print(singleQuote);
+  print(doubleQuote);
 
   print(
       '"What are you doing?" John asked.'); // Double quote inside single quote
